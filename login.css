@@ -1,0 +1,50 @@
+.header {
+
+    font-weight: 600;
+    color: white;
+    font-size: 45px;
+    margin-top: 80px;
+
+}
+
+img {
+
+    justify-content: center;
+    display: flex;
+
+}
+
+body {
+
+    background-color:rgb(189, 43, 43);
+
+}
+
+.login_div {
+
+	background: rgb(255, 154, 22);
+    float: none;
+    border-radius: 15px;
+
+}
+
+button {
+
+    border-radius: 15px;
+    background-color:rgb(255, 136, 0);
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+h3, h4 {
+
+    color:rgb(90, 74, 0);
+    font-weight: 600;
+
+}

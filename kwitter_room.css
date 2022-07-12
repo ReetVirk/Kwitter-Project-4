@@ -1,0 +1,113 @@
+body {
+
+    background-color: rgb(255, 100, 38);
+
+}
+
+.room_input_div {
+
+    background-color:rgb(255, 139, 97);
+    width:100%;
+    border-radius: 15px;
+
+}
+
+#room_name {
+
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:fit-content;
+
+}
+
+#label1 {
+
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+#logout {
+
+	font-size: 20px; 
+    float: right;
+    margin-top: 20px;
+    background-color: brown;
+    border-width: 1px;
+    border-radius: 15px;
+    font-weight: 600;
+    padding: 5px;
+    color:black;
+    padding-bottom: 10px;
+
+}
+
+.header {
+
+    margin-top: 50px;
+    font-weight:600;
+    margin-left: 100px;
+
+}
+
+#add_room_button {
+
+    background-color:rgb(236, 178, 51);
+    border-width: 1px;
+    border-radius: 15px;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 5px;
+
+}
+
+.color_white {
+
+    color: white;
+
+}
+
+.room_name {
+
+    background-color:white;
+    font-size: 20px;
+    padding-top:20px;
+
+}
+
+hr {
+
+    border-width: 3px;
+    border-color:rgb(255, 100, 38);
+
+}
+
+#msg {
+
+    width:90%;
+
+}
+
+.input_div_message_page {
+
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background:rgb(255, 141, 96);
+
+}
+
+#send_button {
+
+    margin-bottom:20px;
+    background-color: rgb(228, 122, 35);
+
+}
+
+#send_label {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
